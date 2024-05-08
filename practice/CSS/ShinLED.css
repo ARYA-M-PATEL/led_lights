@@ -171,7 +171,7 @@ ul.navbar-nav li a.active {
 .hero-container {
   width: 90%;
   margin-top: 30px;
-  background-image: url("./img/lamp.jpg");
+  background-image: url("../img/lamp.jpg");
   color: #ffffff;
   border-radius: 20px;
   position: relative;
@@ -204,7 +204,7 @@ ul.navbar-nav li a.active {
   width: 90%;
   margin-top: 30px;
   background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),
-    url("./img/sbg22.jpg") no-repeat top / cover;
+    url("../img/sbg22.jpg") no-repeat top / cover;
   color: #ffffff;
   border-radius: 20px;
   position: relative;
@@ -267,7 +267,7 @@ ul.navbar-nav li a.active {
   top: 80px;
   height: 515px;
   background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-    url("./img/lamp.jpg") no-repeat center / cover;
+    url("../img/lamp.jpg") no-repeat center / cover;
   padding: 50px;
   border-radius: 30px;
   color: #fff;
@@ -488,7 +488,7 @@ ul.navbar-nav li a.active {
 .scroll-img {
   width: 100%;
   height: 650px;
-  background-image: url("./img/lamp.jpg");
+  background-image: url("../img/lamp.jpg");
   background-size: 100% 100%;
   background-attachment: fixed;
 }
